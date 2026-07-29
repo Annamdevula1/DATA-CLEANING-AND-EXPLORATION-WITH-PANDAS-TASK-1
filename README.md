@@ -16,8 +16,7 @@ Data Cleaning & Exploration with Pandas
 ## Project Output
 
 ### Basic Statistics 
-<img width="1920" height="1080" alt="Screenshot 2026-07-22 22 09 20" src="https://github.com/user-attachments/assets/aa9fd877-9223-4ff0-8f8f-52bdd14ff4eb" />
-
+<img width="1920" height="1080" alt="Screenshot 2026-07-29 17 04 17" src="https://github.com/user-attachments/assets/57d3a7cd-c49b-439c-af35-f93016ec3817" />
 
 ## Setup Instructions
 1. Open the notebook in Google Colab.
